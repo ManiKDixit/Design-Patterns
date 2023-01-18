@@ -1,0 +1,15 @@
+C:\Users\Manikarnika\Documents\Design Patterns\Singleton Pattern\SingletonDemo2\SingletonPatternDemo2\SingletonPatternDemo2\bin\Debug\net6.0\SingletonPatternDemo2.exe
+C:\Users\Manikarnika\Documents\Design Patterns\Singleton Pattern\SingletonDemo2\SingletonPatternDemo2\SingletonPatternDemo2\bin\Debug\net6.0\SingletonPatternDemo2.deps.json
+C:\Users\Manikarnika\Documents\Design Patterns\Singleton Pattern\SingletonDemo2\SingletonPatternDemo2\SingletonPatternDemo2\bin\Debug\net6.0\SingletonPatternDemo2.runtimeconfig.json
+C:\Users\Manikarnika\Documents\Design Patterns\Singleton Pattern\SingletonDemo2\SingletonPatternDemo2\SingletonPatternDemo2\bin\Debug\net6.0\SingletonPatternDemo2.dll
+C:\Users\Manikarnika\Documents\Design Patterns\Singleton Pattern\SingletonDemo2\SingletonPatternDemo2\SingletonPatternDemo2\bin\Debug\net6.0\SingletonPatternDemo2.pdb
+C:\Users\Manikarnika\Documents\Design Patterns\Singleton Pattern\SingletonDemo2\SingletonPatternDemo2\SingletonPatternDemo2\obj\Debug\net6.0\SingletonPatternDemo2.csproj.AssemblyReference.cache
+C:\Users\Manikarnika\Documents\Design Patterns\Singleton Pattern\SingletonDemo2\SingletonPatternDemo2\SingletonPatternDemo2\obj\Debug\net6.0\SingletonPatternDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manikarnika\Documents\Design Patterns\Singleton Pattern\SingletonDemo2\SingletonPatternDemo2\SingletonPatternDemo2\obj\Debug\net6.0\SingletonPatternDemo2.AssemblyInfoInputs.cache
+C:\Users\Manikarnika\Documents\Design Patterns\Singleton Pattern\SingletonDemo2\SingletonPatternDemo2\SingletonPatternDemo2\obj\Debug\net6.0\SingletonPatternDemo2.AssemblyInfo.cs
+C:\Users\Manikarnika\Documents\Design Patterns\Singleton Pattern\SingletonDemo2\SingletonPatternDemo2\SingletonPatternDemo2\obj\Debug\net6.0\SingletonPatternDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Manikarnika\Documents\Design Patterns\Singleton Pattern\SingletonDemo2\SingletonPatternDemo2\SingletonPatternDemo2\obj\Debug\net6.0\SingletonPatternDemo2.dll
+C:\Users\Manikarnika\Documents\Design Patterns\Singleton Pattern\SingletonDemo2\SingletonPatternDemo2\SingletonPatternDemo2\obj\Debug\net6.0\refint\SingletonPatternDemo2.dll
+C:\Users\Manikarnika\Documents\Design Patterns\Singleton Pattern\SingletonDemo2\SingletonPatternDemo2\SingletonPatternDemo2\obj\Debug\net6.0\SingletonPatternDemo2.pdb
+C:\Users\Manikarnika\Documents\Design Patterns\Singleton Pattern\SingletonDemo2\SingletonPatternDemo2\SingletonPatternDemo2\obj\Debug\net6.0\SingletonPatternDemo2.genruntimeconfig.cache
+C:\Users\Manikarnika\Documents\Design Patterns\Singleton Pattern\SingletonDemo2\SingletonPatternDemo2\SingletonPatternDemo2\obj\Debug\net6.0\ref\SingletonPatternDemo2.dll
